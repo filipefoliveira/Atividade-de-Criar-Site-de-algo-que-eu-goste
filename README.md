@@ -25,6 +25,8 @@ O projeto foi desenvolvido utilizando as tecnologias fundamentais para a criaç�
 
 O projeto segue uma organização simples, ideal para um projeto estático:
 
+├── 0css/ # Arquivos de estilo (CSS) ├── 0imagens/ # Imagens utilizadas na página ├── .gitignore # Arquivo para ignorar arquivos desnecessários └── index.html # Arquivo principal da página web
+
 ## 🚀 Como Visualizar
 
 O projeto pode ser acessado de duas formas: diretamente online ou clonando o repositório para visualização local.
