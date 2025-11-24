@@ -27,7 +27,15 @@ O projeto segue uma organização simples, ideal para um projeto estático:
 
 ## 🚀 Como Visualizar
 
-Para visualizar o projeto localmente, siga os passos abaixo:
+O projeto pode ser acessado de duas formas: diretamente online ou clonando o repositório para visualização local.
+
+### 🌐 Visualizar Online (GitHub Pages)
+
+Acesse a versão hospedada do site diretamente pelo link abaixo:
+
+**[Acesse a Página do Fluminense Aqui](https://filipefoliveira.github.io/Atividade-de-Criar-Site-de-algo-que-eu-goste/)**
+
+### 💻 Visualizar Localmente
 
 1.  **Clone o repositório:**
     ```bash
