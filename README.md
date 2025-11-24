@@ -24,3 +24,23 @@ O projeto foi desenvolvido utilizando as tecnologias fundamentais para a criaç�
 ## 📁 Estrutura do Repositório
 
 O projeto segue uma organização simples, ideal para um projeto estático:
+
+## 🚀 Como Visualizar
+
+Para visualizar o projeto localmente, siga os passos abaixo:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/filipefoliveira/Atividade-de-Criar-Site-de-algo-que-eu-goste.git](https://github.com/filipefoliveira/Atividade-de-Criar-Site-de-algo-que-eu-goste.git)
+    ```
+2.  **Navegue até a pasta do projeto:**
+    ```bash
+    cd Atividade-de-Criar-Site-de-algo-que-eu-goste
+    ```
+3.  **Abra o arquivo:**
+    Simplesmente clique duas vezes no arquivo `index.html` ou arraste-o para o seu navegador de preferência.
+
+## ✒️ Autor
+
+* **Filipe de Oliveira**
+    * *Estudante do UDF Centro Universitário*
